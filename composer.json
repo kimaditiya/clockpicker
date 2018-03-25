@@ -1,0 +1,21 @@
+{
+    "name": "aditiya-k/yii2-clockpicker",
+    "description": "Clock Picker Extensions",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Aditiya Kurniawan",
+            "email": "aditiyakurniawan30@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "aditiya\\clockpicker\\": ""
+        }
+    }
+}
